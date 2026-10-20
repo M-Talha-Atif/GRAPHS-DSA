@@ -206,7 +206,7 @@
         <commonsIoVersion>2.1</commonsIoVersion>
         <jbossTransactionApiVersion>1.0.0.Final</jbossTransactionApiVersion>
         <commonsLoggingVersion>1.1.3</commonsLoggingVersion>
-        <activeMQVersion>5.13.3</activeMQVersion>
+        <activeMQVersion>5.19.7</activeMQVersion>
         <commonsLangVersion>2.6</commonsLangVersion>
         <commonsLang3Version>3.5</commonsLang3Version>
         <httpCoreVersion>4.4.5</httpCoreVersion>
